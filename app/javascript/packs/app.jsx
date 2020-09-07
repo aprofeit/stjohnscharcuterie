@@ -4,9 +4,10 @@
 
 import React from 'react'
 import ReactDOM from 'react-dom'
+import { hot } from 'react-hot-loader'
 
 const Hello = props => (
-  <div>Hello {props.name}!</div>
+  <div>Hello, world!</div>
 )
 
 document.addEventListener('DOMContentLoaded', () => {
