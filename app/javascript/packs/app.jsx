@@ -12,6 +12,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 
 const home = props => (
   <Container>
+    <div>St John's Charcuterie</div>
   </Container>
 )
 
